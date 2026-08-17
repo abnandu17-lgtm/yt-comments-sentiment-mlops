@@ -3,3 +3,4 @@ errors.log
 __pycache__/
 *.pyc
 preprocessing_errors.log
+model_building_errors.log
