@@ -4,3 +4,12 @@ __pycache__/
 *.pyc
 preprocessing_errors.log
 model_building_errors.log
+
+data/raw/
+data/interim/
+lgbm_model.pkl
+tfidf_vectorizer.pkl
+experiment_info.json
+mlruns/
+mlflow.db
+*.log
