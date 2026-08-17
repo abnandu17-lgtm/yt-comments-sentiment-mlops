@@ -14,3 +14,7 @@ mlruns/
 mlflow.db
 *.log
 .env
+.env
+venv/
+__pycache__/
+*.pyc

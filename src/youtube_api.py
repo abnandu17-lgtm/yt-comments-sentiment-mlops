@@ -6,7 +6,7 @@ from googleapiclient.discovery import build
 
 
 # Load environment variables
-load_dotenv()
+load_dotenv(".envy")
 
 API_KEY = os.getenv("YOUTUBE_API_KEY")
 
