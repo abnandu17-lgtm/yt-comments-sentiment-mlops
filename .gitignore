@@ -13,3 +13,4 @@ experiment_info.json
 mlruns/
 mlflow.db
 *.log
+.env
