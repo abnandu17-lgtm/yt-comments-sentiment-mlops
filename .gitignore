@@ -18,3 +18,5 @@ mlflow.db
 venv/
 __pycache__/
 *.pyc
+venv/
+.envy
